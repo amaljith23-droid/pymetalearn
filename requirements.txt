@@ -1,0 +1,7 @@
+# PyMetaLearn - Metamaterial Physics Workbook Requirements
+numpy>=1.20.0
+matplotlib>=3.5.0
+sympy>=1.10.0
+ipython>=8.0.0
+jupyter>=1.0.0
+notebook>=6.0.0
